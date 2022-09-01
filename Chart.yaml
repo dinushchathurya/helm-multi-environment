@@ -1,6 +1,6 @@
 apiVersion: v2
-name: helm
-description: A Helm chart for Kubernetes
+name: helm-multiple-environment
+description: A Helm chart for a multi environment deployment
 
 # A chart can be either an 'application' or a 'library' chart.
 #
